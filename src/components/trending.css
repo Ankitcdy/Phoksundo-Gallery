@@ -1,0 +1,43 @@
+.custom-slide {
+    height: 200px;
+
+}
+
+.slick-slide {
+    padding: 0 10px;
+}
+
+.slick-list {
+    margin: 0 2em;
+}
+
+.slick-prev {
+    left: 1% !important;
+}
+
+.slick-next {
+    right: 2% !important;
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 35px;
+    line-height: 1;
+    color: orangered !important;
+}
+
+footer {
+    background-color: #232f39;
+}
+
+footer h5 {
+    color: #ffff !important
+}
+
+.flex-column li a {
+    color: #ffff !important
+}
+
+.slide-img {
+    height: 550px;
+}
