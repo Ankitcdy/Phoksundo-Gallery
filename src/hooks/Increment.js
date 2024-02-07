@@ -22,5 +22,4 @@ const Increment = () => {
         </>
     )
 }
-
 export default Increment
